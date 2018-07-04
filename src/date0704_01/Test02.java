@@ -1,6 +1,6 @@
 package date0704_01;
 
-public class Singleton {
+public class Test02 {
 
 	/*
 	 * 懒汉式 线程安全
